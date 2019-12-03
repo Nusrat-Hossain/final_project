@@ -1,4 +1,4 @@
-# final_project
+# final_project_space_shooters
 # import the python packages: pygame and random
 import pygame, random
 
